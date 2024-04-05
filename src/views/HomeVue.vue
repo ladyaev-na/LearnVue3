@@ -1,3 +1,5 @@
+
+
 <template>
   <section class="d-flex flex-column justify-content-center align-items-center m-auto">
     <h2>Учим Vue3!</h2>
